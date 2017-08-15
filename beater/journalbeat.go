@@ -27,6 +27,7 @@ import (
 	"github.com/elastic/beats/libbeat/common"
 	"github.com/elastic/beats/libbeat/logp"
 	"github.com/elastic/beats/libbeat/publisher"
+        "github.com/elastic/beats/libbeat/processors"
 	"github.com/mheese/journalbeat/config"
 	"github.com/mheese/journalbeat/journal"
 )
